@@ -1,0 +1,6 @@
+{
+  "name": "Facet Brand Guidelines",
+  "description": "Interactive scroll-driven brand identity guidelines spanning framework, voice and tone, logo, typography, iconography, color, imagery, and motion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
